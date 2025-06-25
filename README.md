@@ -29,7 +29,7 @@ Freequency is a modern, responsive web application designed for hosting and dist
 
 ## 🚀 Live Demo
 
-**Website URL**: https://5174-ielz34ggvoid9ta274ot1-53ed33ff.manusvm.computer
+**Website URL**: https://freequency-music-platform.vercel.app/
 
 ## 📁 Project Structure
 
