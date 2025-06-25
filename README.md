@@ -1,3 +1,4 @@
+
 # Freequency - Royalty Free Music Library
 
 ## 🎵 Project Overview
@@ -194,4 +195,8 @@ For permanent deployment, use the build files from the `dist/` directory after r
 ---
 
 **Created with ❤️ for content creators and music enthusiasts**
+
+
+# freequency-music-platform
+A royalty-free music platform offering high-quality tracks for content creation, reels, chill sessions, and more — built for creators, by creators.
 
